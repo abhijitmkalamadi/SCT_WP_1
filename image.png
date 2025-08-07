@@ -1,4 +1,0 @@
-D:\web_skillcraft_intern\Screenshot 2025-08-07 121451.png
-git rm filename.ext
-git commit -m "Deleted filename.ext"
-git push origin main
